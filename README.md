@@ -3,7 +3,7 @@ Hi there, my name is Kevin! ![](https://user-images.githubusercontent.com/183505
 Full Stack Developer
 --------------------
 
-I recently left my career as an Admissions Officer for higher education students at the graduate level to pursue my dream of being a software developer. I have embarked on a self-taught coding journey; it is exciting learning to grow into the well rounded full stack developer I know I can be!
+I recently left my career as an Admissions Officer for higher education students to pursue my dream of being a software developer. I have embarked on my coding journey; growing into the well rounded full stack developer I know I can be!
 
 *   🌍  I'm based in Hamilton, Canada
 *   ✉️  You can contact me at [kevin.boccia@outlook.com](mailto:kevin.boccia@outlook.com)
